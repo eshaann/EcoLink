@@ -1,0 +1,9 @@
+* {
+    background-color: black;
+    color:white;
+}
+
+input, textarea {
+    background-color:white;
+    color:black;
+}
